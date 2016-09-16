@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetJsonData</string>
+    <string name="button_get">Get json</string>
+    <string name="textViewJSON">GetJsonData</string>
+</resources>
